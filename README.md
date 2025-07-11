@@ -50,6 +50,7 @@
 
 ```sh
 └── Myntra-clone/
+    ├── README.md
     ├── css
     │   ├── bag.css
     │   └── index.css
@@ -94,11 +95,11 @@
 			<table>
 			<tr>
 				<td><b><a href='https://github.com/Anurag-methi/Myntra-clone/blob/master/css/index.css'>index.css</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/Anurag-methi/Myntra-clone/blob/master/css/bag.css'>bag.css</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td></td>
 			</tr>
 			</table>
 		</blockquote>
@@ -159,18 +160,6 @@ Install Myntra-clone using one of the following methods:
 
 3. Install the project dependencies:
 
-echo 'INSERT-INSTALL-COMMAND-HERE'
-
-
-
-###  Usage
-Run Myntra-clone using the following command:
-echo 'INSERT-RUN-COMMAND-HERE'
-
-###  Testing
-Run the test suite using the following command:
-echo 'INSERT-TEST-COMMAND-HERE'
-
 ---
 ##  Project Roadmap
 
@@ -179,12 +168,6 @@ echo 'INSERT-TEST-COMMAND-HERE'
 - [ ] **`Task 3`**: Implement feature three.
 
 ---
-
-##  Contributing
-
-- **💬 [Join the Discussions](https://github.com/Anurag-methi/Myntra-clone/discussions)**: Share your insights, provide feedback, or ask questions.
-- **🐛 [Report Issues](https://github.com/Anurag-methi/Myntra-clone/issues)**: Submit bugs found or log feature requests for the `Myntra-clone` project.
-- **💡 [Submit Pull Requests](https://github.com/Anurag-methi/Myntra-clone/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
 
 <details closed>
 <summary>Contributing Guidelines</summary>
@@ -212,7 +195,6 @@ echo 'INSERT-TEST-COMMAND-HERE'
 </details>
 
 <details closed>
-<summary>Contributor Graph</summary>
 <br>
 <p align="left">
    <a href="https://github.com{/Anurag-methi/Myntra-clone/}graphs/contributors">
@@ -220,17 +202,5 @@ echo 'INSERT-TEST-COMMAND-HERE'
    </a>
 </p>
 </details>
-
----
-
-##  License
-
-This project is protected under the [SELECT-A-LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
-
----
-
-##  Acknowledgments
-
-- List any resources, contributors, inspiration, etc. here.
 
 ---
