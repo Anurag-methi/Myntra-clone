@@ -36,13 +36,13 @@
 
 ##  Overview
 
-<code>❯ REPLACE-ME</code>
+<code>❯ link to access the site: https://myntra-clone-z32v.onrender.com </code>
 
 ---
 
 ##  Features
 
-<code>❯ REPLACE-ME</code>
+<code>❯ complete frontend</code>
 
 ---
 
